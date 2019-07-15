@@ -29,7 +29,7 @@
 <p> Danny Wakeling </p>
 <a href="https://github.com/dwake5">Github</a>
 <a href="https://www.linkedin.com/in/danny-wakeling1/">Linkedin</a>
-<br>
+<br></br>
 <p> Nahit Abu-Nijaila </p>
 <a href="https://github.com/Nahit-1">Github</a>
 
